@@ -67,3 +67,9 @@ By the end of this room, I should be able to:
 - Understood the objectives of the room.
 - Learned why phishing remains one of the most effective attack techniques.
 - Gained an overview of the email analysis workflow that will be explored in later tasks.
+
+---
+
+## Questions
+1) I am ready to learn about phishing analysis!
+> No answer needed!
